@@ -6,7 +6,7 @@ Create a new file: MyToken.sol → paste the code above
 
 Compile:
 
-Solidity Compiler → version 0.8.30
+Solidity Compiler → version 0.8.30+
 
 Click Compile
 
@@ -16,7 +16,7 @@ Go to Deploy & Run Transactions
 
 Environment → Injected Web3 (connect Base wallet)
 
-Constructor parameter → initialSupply (e.g., 1000000000000000000000000 for 1M tokens)
+Constructor parameter → initialSupply (e.g., 1000000 for 1B tokens)
 
 Click Deploy
 
@@ -28,7 +28,7 @@ Open BaseScan → Verify & Publish
 
 Paste the source code
 
-Compiler → 0.8.30
+Compiler → 0.8.30+
 
 Set license → MIT
 
